@@ -2,3 +2,5 @@
 Access and investigate IEC62056 utility meters via their infra-red interfaces.
 
 Does what it says on the tin...
+
+Bear with me. Just learning.
